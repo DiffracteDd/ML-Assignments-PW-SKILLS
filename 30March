@@ -1,0 +1,36 @@
+1. Elastic Net Regression is a type of regularized regression technique that combines the properties of both L1 (Lasso) and L2 (Ridge) regularization methods. This approach is particularly useful when dealing with datasets that have highly correlated features or when there are more features than observations.
+
+2. Finding the best combination of the L1 (Lasso) and L2 (Ridge) penalties that minimizes prediction error.
+
+3. Advantages of Elastic Net Regression
+	Combines L1 and L2 Penalties
+	Improved Prediction Accuracy
+	Feature Selection
+	Handling Multicollinearity
+	Flexibility
+	Stability
+Disadvantages of Elastic Net Regression
+	Complexity in Tuning
+	Interpretability
+	Computational Cost
+	Possible Overfitting
+
+4. Elastic Net Regression is commonly used in several fields due to its ability to handle high-dimensional data and correlated features. 
+
+5. Interpreting the coefficients in Elastic Net Regression involves understanding the combined effects of the L1 (Lasso) and L2 (Ridge) penalties applied to the regression model. 
+
+6.	a> Imputation
+	b> Removing Missing Values
+	c> Indicator for Missingness
+	d> Using Models that Handle Missing Values Directly
+
+7. Elastic Net Regression can be effectively used for feature selection by leveraging its ability to shrink coefficients towards zero.
+
+8. In Python, you can use the pickle module to serialize (pickle) and deserialize (unpickle) objects, including trained machine learning models such as Elastic Net Regression. 
+
+9.	1. Model Persistence
+	2. Deployment
+	3. Scalability
+	4. Reproducibility
+	5. Sharing and Collaboration
+	6. Version Control	
